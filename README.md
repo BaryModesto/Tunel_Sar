@@ -15,3 +15,4 @@ Paso 3: Esperar a que surja un Parabolic SAR a favor de la direccion de la futur
     3.1 La operacion se abre con una Orden SELL_STOP o BUY_STOP segun sea el caso, a X pips del precio Bid o Ask.
     3.2 El Stop Loss (SL) se coloca en el maximo o minimo, segun sea el caso (Sell o Buy).
     3.3 El Take Profit se coloca a un ratio establecido por el trader.  
+_
